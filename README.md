@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SayunHetti
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning (Dont know what the hell im doing with life)
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me u dont have to
+- 👋 Hi, I’m @SayunHettiarachchi.
+- 👀 I’m interested in Video game development.
+- 🌱 I’m currently an undergraduate in SLIIT pursuating an SE degree.
+- 💞️ I’m looking to collaborate on any platform u want
+- 📫 My email : sayunhettiarachchi@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Life is useless
+- ⚡ Fun fact: Life is one of the Runs u have before restarting.
 
 <!---
 SayunHetti/SayunHetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
