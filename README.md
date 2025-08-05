@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any platform u want
 - 📫 My email : sayunhettiarachchi@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Life is one of the Runs u have before restarting.
+- ⚡ Fun fact: Sleep is a free trial of Death but with Ads
 
 <!---
 SayunHetti/SayunHetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
